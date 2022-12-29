@@ -3,3 +3,11 @@
 .main-section {
     background-color: aqua;
 }
+.navlink{
+    background-color: azure;
+}
+@media screen and (min-width: 480px) {
+    body {
+      background-color: lightgreen;
+    }
+  }
